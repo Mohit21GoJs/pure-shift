@@ -1,6 +1,6 @@
 {
   "name": "pure-shift",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Mohit21GoJs/pure-shift.git"
   },
-  "keywords": ["shift", "pure shift", "pure function"],
+  "keywords": [
+    "shift",
+    "pure shift",
+    "pure function"
+  ],
   "author": "Mohit Yadav <y.mohit2316@gmail.com>",
   "license": "ISC",
   "bugs": {
