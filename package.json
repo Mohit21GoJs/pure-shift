@@ -1,0 +1,20 @@
+{
+  "name": "pure-shift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit21GoJs/pure-shift.git"
+  },
+  "keywords": ["shift", "pure shift", "pure function"],
+  "author": "Mohit Yadav <y.mohit2316@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit21GoJs/pure-shift/issues"
+  },
+  "homepage": "https://github.com/Mohit21GoJs/pure-shift#readme"
+}
